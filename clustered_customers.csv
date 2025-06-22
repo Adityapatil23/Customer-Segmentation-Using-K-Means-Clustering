@@ -1,0 +1,4 @@
+customer_id,Recency,Frequency,Monetary,Cluster
+1,6,3,950.0,1
+2,11,2,300.0,0
+3,9,2,125.0,2
